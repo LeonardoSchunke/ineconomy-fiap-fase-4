@@ -1,0 +1,49 @@
+*{
+    font-family: sans-serif;
+}
+
+.bg-blue {
+    background-color: rgb(41, 100, 208);
+    border-radius: 0px 0px 5px 5px ;
+}
+
+.bg-cornflowerblue {
+    background-color: rgb(123, 164, 241);
+}
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+}
+
+#floatingInput {
+    border-radius: 5px 5px 0px 0px ;
+}
+
+#floatingPassword {
+    border-radius: 0px 0px 5px 5px ;
+}
+
+#floatingPasswordConfirm {
+    border-radius: 0px;
+}
+
+a {
+    color: dimgray;
+    text-decoration: none;
+}
+
+.img-perfil {
+    border-radius: 100%;
+    width: 50%;
+    padding: 2%;
+}
+
+.nav-dash {
+    color: rgb(240, 252, 255);
+}
+
+.img-grafico {
+    width: 70%;
+    padding: 2%;
+}
